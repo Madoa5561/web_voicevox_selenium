@@ -14,9 +14,7 @@ voicerlist = """0 四国めたん(あまあま)
 4 四国めたん(セクシー)
 5 ずんだもん(セクシー)
 6 四国めたん(ツンツン)
-7 ずんだもん(ツンツン)
-
-無能過ぎて疲れて書く気力失った"""
+7 ずんだもん(ツンツン)"""
 def yomu(outputword):
     driver = webdriver.Chrome(options=options)
     driver.get("https://voicevox.su-shiki.com/vertical/")
