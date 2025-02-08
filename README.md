@@ -1,5 +1,4 @@
 # web_voicevox_selenium
-無能がseleniumを使う
 
 webのvoicevoxを使ってseleniumで音声URL受け取るやつです
 
